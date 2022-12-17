@@ -1,3 +1,5 @@
+# Making the Zombie Factory
+
 In this readme, I'll go through the code of the first course on the CryptoZombies website to explain the things that I believe were new for me.
 First of all,
 
@@ -22,3 +24,5 @@ emit NewZombie(id, _name, _dna);
 ```
 
 The `emit` keyword is used to throw out a specific event to notify that an action has been done, in this case, the event is `NewZombie` to notify the client application that a new zombie has been created.
+
+More informations about how the events being emited in etheruem blockchain [here](https://www.notion.so/Making-the-Zombie-Factory-690acf11e75a4fd7824d73d253a51172).
