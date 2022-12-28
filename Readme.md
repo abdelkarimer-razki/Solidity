@@ -1,3 +1,7 @@
 # Solidity
 
-This repository serves as a reference for my Solidity learning journey. It contains notes and code snippets for various smart contracts, organized in individual directories with accompanying readme files. It is hoped that this resource may also be helpful for others who are learning Solidity.
+This repository serves as a summary of the concepts and code that were studied and developed during the learning process of Solidity. It includes documentation with notes and examples of various smart contracts. It is intended to provide a reference for personal use, as well as to assist others in their learning journey with Solidity.
+
+### Ressources:
+
+- [CryptoZombies](https://cryptozombies.io/)
