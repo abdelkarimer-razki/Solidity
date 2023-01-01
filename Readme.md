@@ -5,3 +5,4 @@ This repository serves as a summary of the concepts and code that were studied a
 ### Ressources:
 
 - [CryptoZombies](https://cryptozombies.io/)
+- [Mastering Erhereum:Building smart contracts and dapps](https://dl.ebooksworld.ir/motoman/Mastering_Ethereum_Andreas.M.Antonopoulos.www.EBooksWorld.ir.pdf)
